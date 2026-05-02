@@ -1,0 +1,24 @@
+body {
+  max-width: 70ch;       /* Limit line length for readability */
+  margin: 2rem auto;    /* Center the page content */
+  padding: 0 1rem;      /* Add side padding for mobile */
+  line-height: 1.6;     /* Add comfortable line spacing */
+  font-family: serif;   /* Traditional text-centric look */
+  color: #333;          /* High readability color */
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.questionContainer {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 25px;
+    padding: 10px 20px;
+}
+
+.answer {
+    color: red;
+}
