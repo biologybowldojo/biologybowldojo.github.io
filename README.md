@@ -1,2 +1,2 @@
 # biologybowldojo.github.io
-Biology Bowl Training
+Biology Bowl training
